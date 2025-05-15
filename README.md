@@ -25,3 +25,4 @@ Migrate low context and high end projects
 
 - Neon EVM ( solana) 
 
+This project will be exported to IRV3 Collective ( An Open collective) 
