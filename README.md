@@ -1,7 +1,7 @@
 # SP35
 Evm - solana benchmark experimentation
 
-The goal of this experiment is to use AI to benchmark and test porting of smart contract codebase across chains 
+The goal of this experiment is to use AI to benchmark and test porting of OSS smart contract codebase across chains 
 
 ### Benchmark
 Accuracy in code translation at least > 90% 
@@ -15,9 +15,10 @@ Models
 ## First Iteration Major goal 
 
 Can we go from 
-EVM <-> BTC Contract chains ( Rootstock) 
-EVM <-> Solana ( SPL ) 
 
+EVM <-> BTC Contract chains ( Rootstock)
+ 
+EVM <-> Solana ( SPL ) 
 
 Migrate low context and high end projects 
 
@@ -25,4 +26,4 @@ Migrate low context and high end projects
 
 - Neon EVM ( solana) 
 
-This project will be exported to IRV3 Collective ( An Open collective) 
+This project will be exported to IRV3 Collective ( An Open collective)
