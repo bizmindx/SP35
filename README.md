@@ -1,7 +1,7 @@
 # SP35
 Evm - solana benchmark experimentation
 
-The goal of this experiment is to use AI to benchmark and test porting of smart contracts across chains 
+The goal of this experiment is to use AI to benchmark and test porting of smart contract codebase across chains 
 
 ### Benchmark
 Accuracy in code translation at least > 90% 
